@@ -2,8 +2,8 @@
 /*
 Plugin Name: Events Plugin
 Plugin URI:
-Description: This is a plugin to capture event details. Was teaching myself how to work with metaboxes and have the events pull  up on the front end.
-
+Description: This is a plugin to capture event details. Was teaching myself how to work with metaboxes
+and have the events pull  up on the front end.
 Author: Mbonisi Tshuma - Code Assasin in Training
 Author URI: https://github.com/mbonisi287/
 License: GPL2
