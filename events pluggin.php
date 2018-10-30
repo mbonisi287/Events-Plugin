@@ -2,7 +2,8 @@
 /*
 Plugin Name: Events Plugin
 Plugin URI:
-Description: This is a plugin designed to test the fundamentals required for WordPress Engineers to work at FlickerLeap. This test is continuously being updated to further test the fundamentals of being a WordPress Engineer.
+Description: This is a plugin to capture event details. Was teaching myself how to work with metaboxes and have the events pull  up on the front end.
+
 Author: Mbonisi Tshuma - Code Assasin in Training
 Author URI: https://github.com/mbonisi287/
 License: GPL2
